@@ -12,7 +12,11 @@ and the output of the neural network is the cost function; gradient descent on t
 
 # Files included:
 genpotential.py   Generates the random potentials and solves them individually
+
 schroedinger_nn.py   Sets up a simple neural network to solve the 1D Sch. Eqn.
+
 display_nnout.py    Plots a single potential and its actual and predicted solutions
+
 save_nn.py     Saves the weights and biases of the network for later recovery
+
 visualize_nn.py   Creates bitmaps of the weights and biases of the network after sorting for spatial correlation
